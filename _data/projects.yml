@@ -1,16 +1,93 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# 해피포인트
+- project: 해피포인트 Application 개발
+  role: Android Developer
+  duration: 2020.08 ~ 2020.01
+  url: "https://play.google.com/store/apps/details?id=com.hpapp"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; Retrofit,RxAndroid</li><li>NAVER, FACEBOOK, KAKAO 로그인 API 연동 개발</li><li>Design Pattern 리팩토링(MVC -> MVVM)</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# 운전결심
+- project: 운전결심 Application 개발
+  role: Android Developer
+  duration: 2020.04 ~ 2020.08
+  url: "https://play.google.com/store/apps/details?id=com.iwilldrive.android"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; kotlin</li><li>RestFul API 기반 개발 &mdash; Retrofit,RxAndroid</li><li>Design Pattern 적용(MVVM)</li><li>dependency injection 적용(koin)</li></ul>
+
+# 르노삼성
+- project: My르노삼성 Application 개발
+  role: Android Developer
+  duration: 2019.03 ~ 2020.04
+  url: "https://play.google.com/store/apps/details?id=com.myrsm.android"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; kotlin</li><li>RestFul API 기반 개발 &mdash; Retrofit,RxAndroid</li><li>Design Pattern 적용(MVP)</li><li>dependency injection 적용(Dagger2)</li><li>Test 배포를 위한 CI 적용 &mdash; bitrise <a href='https://www.bitrise.io/'>(https://www.bitrise.io/)</a></li></ul>
+
+# 원빌딩
+- project: 원빌딩(빌딩관리 서비스) 3세대 시스템 구축
+  role: Web Developer
+  duration: 2018.05 ~ 2019.02
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA, javascript</li><li>Spring Boot Framework</li><li>Vue.js 기반 개발</li><li>JSP 기반 개발</li></ul>
+
+# 어바웃미
+- project: 어바웃미 쇼핑몰 사이트 리뉴얼
+  role: Web Developer
+  duration: 2017.11 ~ 2018.02
+  url: "https://www.aboutmeshop.com/"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA, javascript</li><li>Spring Boot Framework</li><li>Angular JS 기반 개발</li><li>JSP 기반 개발</li></ul>
+
+# AHC
+- project: AHC 쇼핑몰 구축
+  role: Web Developer
+  duration: 2017.02 ~ 2017.09
+  url: "https://www.ahc.co.kr/shop/main"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA, javascript</li><li>Spring Boot Framework</li><li>Angular JS 기반 개발</li><li>JSP 기반 개발</li></ul>
+
+# 더샘
+- project: 더샘 쇼핑몰 구축
+  role: Web Developer
+  duration: 2017.02 ~ 2017.09
+  url: "https://www.thesaemcosmetic.com/page/shopping"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA, javascript</li><li>Spring Boot Framework</li><li>Angular JS 기반 개발</li><li>JSP 기반 개발</li></ul>
+
+# OK 캐쉬백
+- project: OCB Application (Ver 5.0) 운영
+  role: Android Developer
+  duration: 2015.02 ~ 2017.01
+  url: "https://play.google.com/store/apps/details?id=com.skmc.okcashbag.home_google"
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; Volley</li></ul>
+
+# 대명리조트
+- project: 대명리조트 Application 리뉴얼
+  role: Android Developer
+  duration: 2014.04 ~ 2014.07
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
+
+# BGF리테일
+- project: CU(편의점) Application 개발
+  role: Android Developer
+  duration: 2014.02 ~ 2014.07
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
+
+# 쥬비스
+- project: 쥬비스Diet Application 개발
+  role: Android Developer
+  duration: 2014.01 ~ 2014.04
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
+
+# OK 캐쉬백 
+- project: OCB Application (Ver 4.0) 개발
+  role: Android Developer
+  duration: 2013.05 ~ 2013.12
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
+
+# OK 캐쉬백 
+- project: FreeZum Application 개발
+  role: Android Developer
+  duration: 2013.04 ~ 2013.06
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
