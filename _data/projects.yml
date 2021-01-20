@@ -85,9 +85,16 @@
   # url: ""
   description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
 
-# OK 캐쉬백 
+# Freezum
 - project: FreeZum Application 개발
   role: Android Developer
   duration: 2013.04 ~ 2013.06
+  # url: ""
+  description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
+
+# 롯데백화점
+- project: 롯데백화점 Application
+  role: Android Developer
+  duration: 2012.06 ~ 2012.10
   # url: ""
   description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; AsyncTask</li></ul>
