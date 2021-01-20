@@ -4,7 +4,7 @@
 # 해피포인트
 - project: 해피포인트 Application 개발
   role: Android Developer
-  duration: 2020.08 ~ 2020.01
+  duration: 2020.08 ~ 2021.01
   url: "https://play.google.com/store/apps/details?id=com.hpapp"
   description: <ul class="resume-item-list"><li>사용 언어 &mdash; JAVA</li><li>RestFul API 기반 개발 &mdash; Retrofit,RxAndroid</li><li>NAVER, FACEBOOK, KAKAO 로그인 API 연동 개발</li><li>Design Pattern 리팩토링(MVC -> MVVM)</li></ul>
 

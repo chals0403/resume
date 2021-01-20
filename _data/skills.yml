@@ -3,20 +3,20 @@
   description: 
     <ul class="resume-item-list">
       <li>가용 언어 &mdash; JAVA, Kotlin</li>
-      <li>AAC(Android Architecture Components) 사용경험 &mdash; ViewModel, LiveData 등</li>
-      <li>Android DataBinding 사용 경험</li>
-      <li>Dependency Injection 적용 경험 &mdash; Koin, Dagger 등</li>
-      <li>reactive programing 개발 경험 &mdash; RxJava(RxAndroid)</li>
-      <li>RestFul API 활용 개발 경험 &mdash; Retrofit</li>
+      <li>AAC(Android Architecture Components) &mdash; ViewModel, LiveData 등</li>
+      <li>Android DataBinding</li>
+      <li>Dependency Injection &mdash; Koin, Dagger 등</li>
+      <li>reactive programing &mdash; RxJava(RxAndroid)</li>
+      <li>RestFul API 활용 개발 &mdash; Retrofit</li>
     </ul>
 
 - skill: Web
   description: 
     <ul class="resume-item-list">
       <li>가용 언어 &mdash; JAVA, javascript</li>
-      <li>Spring, Spring Boot Framewokr 기반 개발 경험</li>
-      <li>JSP 기반 웹페이지 개발 경험</li>
-      <li>Vue.js, Angular JS framework 기반 개발 경험</li>
-      <li>mssql, oracle, mysql 등 database 사용 경험</li>
+      <li>Spring, Spring Boot Framewokr 기반 개발</li>
+      <li>JSP 기반 웹페이지 개발</li>
+      <li>Vue.js, Angular JS framework 기반 개발</li>
+      <li>mssql, oracle, mysql 등 database 활용 개발</li>
     </ul>
 
